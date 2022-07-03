@@ -1,1 +1,2 @@
 # RecordLinkage_Brazilian_Base_COVID19
+Os códigos referem-se ao prodesso de data linkage com bases brasileiras relacionadas ao COVID-19 para identificação de duplicidades e inconsistências. Esses códigos são fruto de um trabalho de mestrado em Tecnologia da Informação e Gestão em Saúde pela Universidade Federal de Ciencias da Saúde de Porto Alegre pelo pesquisador José Henrique Hinkel, orientado por Silvio Cesar Cazella e Coorientado por Heimar Marín. Assim que concluídos, disponibilizarei links da dissertação e artigo para melhor compreensão da metodologia. 
